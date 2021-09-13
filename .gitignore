@@ -1,2 +1,6 @@
 .vscode/
+*.prproj
+*.atpj
 data/*.wav
+src/
+out/
